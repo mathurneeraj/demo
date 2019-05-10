@@ -53,7 +53,7 @@
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <WriteLine DisplayName="First line" sap:VirtualizedContainerService.HintSize="314,62" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="Hello World" />
-    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" Buttons="Ok" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="314,59" sap2010:WorkflowViewState.IdRef="MessageBox_1" Text="[&quot;Hello World&quot;]" TopMost="True" />
-    <WriteLine DisplayName="Last Line" sap:VirtualizedContainerService.HintSize="314,62" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="The end!" />
+    <WriteLine DisplayName="Last Line" sap:VirtualizedContainerService.HintSize="314,62" sap2010:WorkflowViewState.IdRef="WriteLine_2" Text="end!" />
+    <ui:MessageBox Caption="{x:Null}" ChosenButton="{x:Null}" Buttons="Ok" DisplayName="Message Box" sap:VirtualizedContainerService.HintSize="314,59" sap2010:WorkflowViewState.IdRef="MessageBox_2" Text="[&quot;Hello World&quot;]" TopMost="True" />
   </Sequence>
 </Activity>
